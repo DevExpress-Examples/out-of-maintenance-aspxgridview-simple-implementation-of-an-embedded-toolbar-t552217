@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/DxExample/Default.aspx) (VB: [Default.aspx](./VB/DxExample/Default.aspx))
+* [Default.aspx.cs](./CS/DxExample/Default.aspx.cs) (VB: [Default.aspx](./VB/DxExample/Default.aspx))
+* [Global.asax](./CS/DxExample/Global.asax) (VB: [Global.asax.vb](./VB/DxExample/Global.asax.vb))
+* [Global.asax.cs](./CS/DxExample/Global.asax.cs) (VB: [Global.asax.vb](./VB/DxExample/Global.asax.vb))
+<!-- default file list end -->
 # ASPxGridView - Simple implementation of an embedded toolbar 
 
 
