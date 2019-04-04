@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [Default.aspx](./CS/DxExample/Default.aspx) (VB: [Default.aspx](./VB/DxExample/Default.aspx))
-* [Default.aspx.cs](./CS/DxExample/Default.aspx.cs) (VB: [Default.aspx](./VB/DxExample/Default.aspx))
+* [Default.aspx.cs](./CS/DxExample/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/DxExample/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxGridView - Simple implementation of an embedded toolbar 
 
